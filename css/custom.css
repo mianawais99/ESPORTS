@@ -1,0 +1,50 @@
+﻿#topHeader {
+    border: #DCAE34 3px solid;
+    border-bottom: 0;
+    background: #0a3041;
+    color: #ffffff;
+}
+.navbar {
+    border: #DCAE34 3px solid;
+    border-top: 0;
+}
+.sticky-top {
+    background: #ffffff;
+}
+/* ============ desktop view ============ */
+@media all and (min-width: 720px) {
+    .navbar .nav-item:hover .nav-link {
+        background: #DCAE34;
+    }
+}
+/* ============ desktop view .end// ============ */
+
+/* ============ DataTables Styling ============ */
+
+.dataTables_wrapper .dataTables_info {
+    color: #ffffff;
+}
+/* ============ DataTables Styling ============ */
+
+/* ============ Student Login============ */
+.card {
+    border: #DCAE34 5px solid;
+    background: #0a3041;
+    color: azure;
+}
+/* ============ Student Login============ */
+.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+.footerlinks:hover {
+   color: #DCAE34;
+}
+
+#footer1 {
+    background: #0a3041;
+}
+#footer2 {
+    background: #02202e;
+}
+
