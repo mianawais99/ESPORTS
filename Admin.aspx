@@ -11,6 +11,8 @@
             background-size: cover;
         }
     </style>
+
+
     <%--Background Image--%>
     <div class="container p-3">
         <div class="row">
