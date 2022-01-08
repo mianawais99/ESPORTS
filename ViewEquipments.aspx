@@ -54,7 +54,7 @@
                                                             </div>
 
                                                             <div class="row p-1">
-                                                                <div class="col-6">
+                                                                <div class="col-6 ">
 
                                                                     <span>Category:</span>
                                                                     <asp:Label ID="Label3" runat="server" Text='<%# Eval("category_name") %>' Font-Bold="True"></asp:Label>
@@ -94,10 +94,8 @@
 
 
                                                         </div>
-
-
                                                         <div class="col-lg-3">
-                                                            <asp:Image class="img-fluid " ID="Image1" runat="server" ImageUrl='<%# Eval("item_img") %>' />
+                                                            <asp:Image class="img-fluid" ID="Image1" runat="server" ImageUrl='<%# Eval("item_img") %>' />
                                                         </div>
                                                     </div>
                                                 </div>

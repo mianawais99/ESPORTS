@@ -38,12 +38,12 @@
             <p class="text-center"><strong>GROUP MEMBERS</strong></p>
 
                 </div>
-            <div class="col-md-3">
+            <%--<div class="col-md-3">
                <p class="text-center">Haseeb Ahmed (FA18-BCS-046)</p>
                 </div>
             <div class="col-md-3">
                <p class="text-center">Asad Mehmood   (FA18-BCS-053)</p>
-                </div>
+                </div>--%>
             <div class="col-md-3">
                <p class="text-center">Muhammad Awais   (FA18-BCS-083)</p>
                 </div>
